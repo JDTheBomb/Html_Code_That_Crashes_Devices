@@ -1,0 +1,1 @@
+var img = new Image(); img.src = "Your_Image_Here_In_Quotation_Marks" for (var i = 0; i < 10; i++) { document.body.appendChild(img) }
